@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Joy Tile</h1>
 <!-- <h3 align="center">Data Scientist</h3> -->
 
-- 🔭 I’m a Data Scientist & Health Enthusiast passionate about **transforming real life messy data into valuable insights for impactful decisions.**
+- 🔭 I’m a Data Scientist & Health Enthusiast passionate about **transforming real-life messy data into valuable insights for impactful decisions.**
 
 - 🌱 I’m currently building skills in **explainable AI(XAI), Natural language Understanding and cloud platforms like GCP, AWS & Azure.**
 
@@ -16,7 +16,7 @@
 - 📫 Reach me at **tilejoy92@gmail.com**
 
 ---
-## Current Projects:
+### Current Projects:
 - Building a hybrid hospital readmission prediction model with structured and unstructured data
 
 <h3 align="left">Languages and Tools:</h3>
